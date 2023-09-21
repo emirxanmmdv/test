@@ -3,3 +3,4 @@
 ''add .'' has no special meaning in your shell, and thus Git adds the entire directory recursively, which is almost the same, but including files whose names begin with a dot.
 
 1234
+6789
